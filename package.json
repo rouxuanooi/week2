@@ -1,4 +1,3 @@
-
 {
   "name": "mymongoapp",
   "version": "1.0.0",
@@ -9,10 +8,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "express": "^5.1.0",
     "mongodb": "^6.15.0"
   },
-"type": "module"
-
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rouxuanooi/week2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rouxuanooi/week2/issues"
+  },
+  "homepage": "https://github.com/rouxuanooi/week2#readme",
+  "description": ""
 }

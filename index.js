@@ -7,7 +7,7 @@ const drivers = [
         isAvailable: true,
         rating: 4.8
     },
-    {
+    
         name: "Alice Smith",
         vehicleType: "SUV",
         isAvailable: false,
